@@ -3,6 +3,3 @@ class Artist
     @name = name
   end 
 end 
-
-Artist.new
-Artist.name("Beyonce")
