@@ -6,3 +6,4 @@ class Artist
 end 
 
 Artist.new
+Artist.name("Beyonce")
